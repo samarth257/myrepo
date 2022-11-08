@@ -1,2 +1,8 @@
  this is first file
+<<<<<<< HEAD
 this is f2 line
+=======
+
+this is f3 line 
+
+>>>>>>> f3
